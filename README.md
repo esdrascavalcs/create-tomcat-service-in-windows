@@ -1,7 +1,7 @@
 # Instalação de serviço do Tomcat no Windows
 
 1. Baixe o apache tomcat no site oficial https://tomcat.apache.org;
-2. Descompacte o arquivo baixado no diretório padrão, por exemplo C:\servers. O diretório completo ficaria C:\servers\apache-tomcat-7.0.100_8040, por exemplo;
+2. Descompacte o arquivo baixado no diretório padrão, como C:\servers. O diretório completo ficaria C:\servers\apache-tomcat-7.0.100_8040, por exemplo;
 3. Abra o prompt de comando do Windows com privilégios de administrador, e navegue até o diretório bin do Tomcat adicionado no passo anterior;
 4. Com o prompt aberto, execute o arquivo service_8040(edite-o antes para definir a porta do serviço que deverá ser criado);
 5. Agora execute o arquivo set_descricao_8040(edite-o antes para definir a JRE que será utilizada, e descrever se o ambiente será DEV ou PRD, por exemplo);
