@@ -1,4 +1,4 @@
-# Instalação do serviço do Tomcat no Windows
+# Instalação de serviço do Tomcat no Windows
 
 1. Baixe o apache tomcat 7 no site oficial https://tomcat.apache.org;
 2. Descompacte o arquivo baixado no diretório padrão, por exemplo C:\servers. O diretório completo ficaria C:\servers\apache-tomcat-7.0.100_8040, por exemplo;
