@@ -1,4 +1,4 @@
-# Instalação de serviço do Tomcat no Windows
+# Tomcat service installation on Windows
 
 1. Download the apache tomcat from the official website https://tomcat.apache.org;
 2. Unzip the downloaded file to the default directory, such as C: \ servers. The complete directory would be C: \ servers \ apache-tomcat-7.0.100_8040, for example;
